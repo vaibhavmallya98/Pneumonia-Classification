@@ -1,4 +1,4 @@
-# Pneumonia Detection in X-ray Images using ResNet18 Architecture 
+# Pneumonia Classification in X-ray Images using ResNet18 
 This project focuses on developing a deep learning model for classifying pneumonia in chest X-ray images. The model is built on the ResNet18 architecture and is trained to distinguish between normal lungs and lungs with pneumonia. This project leverages the dataset provided by the RSNA Pneumonia Detection Challenge on Kaggle, aiming to assist in the early diagnosis of pneumonia through automated image analysis.
 
 ### Features
